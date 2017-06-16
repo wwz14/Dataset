@@ -1,0 +1,1 @@
+抓取了mail list，http://httpd.apache.org/lists.html#http-dev，可是在这里的mail list中就只有邮箱地址呀！
